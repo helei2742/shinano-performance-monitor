@@ -1,0 +1,5 @@
+shinano:
+  methodMetric:
+    threadPoolCore: 4
+    threadPoolMax: 4
+    waitTime: 1
